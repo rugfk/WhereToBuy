@@ -16,7 +16,7 @@
 ### (4) CM-DSI-ADAPTER (라즈베리파이와 Tinker Edge R를 터치스크린 중간 아답터/케이블)
 * [클릭: 엘리파츠(검증됨)](https://www.eleparts.co.kr/goods/view?no=9931365)
 
-### (5) LTE 통신모듈(Quectel EG25-G EG25-G Mini Pcie EG25GGC-MINIPCIE /LCC CAT4 Module EG25GGC-128-SGNS for Global Band)
+### (5) LTE 통신모듈 (Quectel EG25-G EG25-G Mini Pcie EG25GGC-MINIPCIE /LCC CAT4 Module EG25GGC-128-SGNS for Global Band)
 * [클릭: 알리익스프레스(검증됨)](https://ko.aliexpress.com/item/1005003827638078.html) 
 
 ### (6) Logitech C270 Wide Screen HD Webcam (필수)
