@@ -18,3 +18,9 @@
 
 ### (5) LTE 통신모듈(Quectel EG25-G EG25-G Mini Pcie EG25GGC-MINIPCIE /LCC CAT4 Module EG25GGC-128-SGNS for Global Band)
 * [클릭: 알리익스프레스(검증됨)](https://ko.aliexpress.com/item/1005003827638078.html) 
+
+### (6) Logitech C270 Wide Screen HD Webcam (필수)
+* [클릭: 아마존(검증됨)](http://bitly.kr/sJuONkx)
+
+### (7) 라즈베리파이 카메라모듈 V2, 8MP (RPi Camera V2) 고해상도 (필수) 
+* [클릭: 메카솔루션(검증됨)](http://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=)
