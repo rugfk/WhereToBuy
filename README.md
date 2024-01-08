@@ -5,8 +5,8 @@
 (검증됨: 직접 구매해서 사용해봄)
 
 ### (1) ASUS Tinker Edge R (RK3399Pro) (필수)
-* [클릭: 컴퓨존 (검증됨)](https://www.compuzone.co.kr/product/product_detail.htm?ProductNo=749548)
-* [클릭: 엘리파츠 (검증됨)](https://www.eleparts.co.kr/goods/view?no=10288481)
+* [클릭: 네이버 스마트 스토어 (검증됨)](https://smartstore.naver.com/farmingai/products/9769885352)
+* [클릭: 모바일용 카페24 쇼핑몰(검증됨)](https://farmingai.cafe24.com/surl/O/13)
 
 ### (2) ASUS 65W 에이수스 정품 전원어댑터_팅커보드호환 (필수)
 * [클릭: 디바이스마트(검증됨)](https://smartstore.naver.com/hpelite/products/5595073513)
